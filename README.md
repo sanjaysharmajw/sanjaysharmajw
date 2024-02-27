@@ -9,9 +9,16 @@
 
 - 📄 Know about my experiences [👋 Hello I'm Sanjay Sharma, a versatile and passionate technologist with a unique blend of skills in Android development, Flutter development, iOS development, and UI/UX design. 🚀 With a keen eye for detail and a love for crafting seamless user experiences, I thrive on the challenges that come with creating innovative and user-friendly applications across multiple platforms. 💻 Whether it's diving into the intricacies of Android development, harnessing the power of Flutter for cross-platform solutions, delving into the Apple ecosystem with iOS development, or bringing a touch of creativity to the forefront through UI/UX design, I am driven by a commitment to delivering high-quality and impactful solutions. My goal is to contribute to dynamic and forward-thinking projects, pushing the boundaries of mobile and web development while ensuring an intuitive and visually engaging user experience.](👋 Hello I'm Sanjay Sharma, a versatile and passionate technologist with a unique blend of skills in Android development, Flutter development, iOS development, and UI/UX design. 🚀 With a keen eye for detail and a love for crafting seamless user experiences, I thrive on the challenges that come with creating innovative and user-friendly applications across multiple platforms. 💻 Whether it's diving into the intricacies of Android development, harnessing the power of Flutter for cross-platform solutions, delving into the Apple ecosystem with iOS development, or bringing a touch of creativity to the forefront through UI/UX design, I am driven by a commitment to delivering high-quality and impactful solutions. My goal is to contribute to dynamic and forward-thinking projects, pushing the boundaries of mobile and web development while ensuring an intuitive and visually engaging user experience.)
 
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://dev.to/sanjaysharmajw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sanjaysharmajw" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sanjaydeveloper/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sanjaydeveloper/" height="30" width="40" /></a>
+<a href="https://instagram.com/sanjayjw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sanjayjw" height="30" width="40" /></a>
+<a href="https://medium.com/@sanjaysharmajw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sanjaysharmajw" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
