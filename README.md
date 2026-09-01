@@ -1,238 +1,331 @@
-<div align="center">
+## 🧑‍💻 Mobile Engineering
 
-# 👋 Hi, I'm **Sanjay Sharma**
+<p align="center">
 
-### 🚀 Senior Mobile & Cross-Platform Developer
+<img src="https://img.shields.io/badge/Android-Development-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+<img src="https://img.shields.io/badge/iOS-Development-000000?style=for-the-badge&logo=apple&logoColor=white" />
+<img src="https://img.shields.io/badge/Flutter-Cross--Platform-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Dart-Development-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 
-**Android • iOS • Flutter • AI-Powered Applications**
-
-I build **scalable, high-performance and beautiful mobile applications**
-with a strong focus on **clean architecture, modern UI/UX and AI integration.**
-
-<p>
-  <a href="https://www.linkedin.com/in/sanjaydeveloper/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A77B6?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://medium.com/@sanjaysharmajw">
-    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
-  <a href="https://www.youtube.com/@CodeWithIDEYoutube">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
 </p>
 
-</div>
+Building **production-grade mobile applications** across Android, iOS and Flutter with a focus on performance, scalability, security and exceptional user experience.
+
+* 📱 Native Android & iOS Development
+* 🦋 Flutter Cross-Platform Development
+* 🏗️ Clean Architecture & SOLID Principles
+* 🧩 Modular & Scalable Application Architecture
+* 🔄 Offline-First & Data Synchronization
+* 🌐 REST API & Backend Integration
+* 🔔 Push Notifications & Background Services
+* 💾 Local Database & Persistent Storage
+* 🔐 Secure Storage & Application Security
+* 🎨 Responsive UI/UX & Adaptive Layouts
+* ⚡ Performance Optimization
+* 🧪 Debugging, Testing & Production Monitoring
+* 📦 Reusable Flutter Packages & Developer Tooling
+* 🔌 Native Android/iOS Platform Integrations
 
 ---
 
-## 👨‍💻 About Me
+## 🤖 AI, Automation & Intelligent Systems
 
-* 📱 **Senior Android, iOS & Flutter Developer**
-* 🧩 Experienced in building **cross-platform & native mobile applications**
-* 🤖 Passionate about **AI, Local LLMs, OCR and intelligent automation**
-* 🏗️ Focused on **Clean Architecture, scalable code & maintainable systems**
-* 🎨 Strong interest in **modern UI/UX and product-focused development**
-* 🔥 Experienced with **Firebase & backend integrations**
-* 🛠️ Love transforming complex business requirements into simple applications
+<p align="center">
+
+<img src="https://img.shields.io/badge/AI-Applications-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Local-LLM-111827?style=for-the-badge" />
+<img src="https://img.shields.io/badge/OCR-Document%20AI-2563EB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Automation-Intelligent%20Workflows-059669?style=for-the-badge" />
+
+</p>
+
+I build **practical AI systems that automate real-world workflows**, reduce manual effort and turn unstructured information into actionable data.
+
+### 🧠 AI Engineering
+
+* Local LLM & On-Device AI
+* AI-Powered Mobile Applications
+* Intelligent Document Processing
+* OCR & Text Extraction
+* AI-Based Email Understanding
+* Semantic Search & Knowledge Retrieval
+* Structured Data Extraction
+* AI-Assisted Reconciliation
+* Natural Language Processing
+* Transliteration & Language Processing
+* AI Workflow Automation
+* AI Agents & Action-Based AI
+* Intelligent Classification & Routing
+
+### ⚙️ Business Automation
+
+* 📧 Automated Email Processing
+* 📄 Document & Receipt Processing
+* 🔍 Intelligent Search
+* 📊 Data Reconciliation
+* 🗂️ Bulk Data Processing
+* 🔄 Automated Business Workflows
+* 🧾 OCR-Based Information Extraction
+* 🤝 Human + AI Assisted Workflows
 
 ---
 
-## 🚀 My Core Expertise
+## 🛠️ Backend, Cloud & Platform Engineering
 
-<table>
-<tr>
-<td width="50%">
+<p align="center">
 
-### 📱 Mobile Development
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/Appwrite-FD366E?style=for-the-badge&logo=appwrite&logoColor=white" />
+<img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Cloud-Engineering-4285F4?style=for-the-badge" />
 
-* Android Development
-* iOS Development
-* Flutter Development
-* Cross-Platform Applications
-* Native Integrations
-* REST API Integration
-* Push Notifications
-* Offline-First Applications
+</p>
 
-</td>
+Designing reliable application backends and cloud-connected systems that support **secure, scalable and data-driven mobile applications**.
 
-<td width="50%">
-
-### 🤖 AI & Automation
-
-* AI Application Development
-* Local AI / Local LLM
-* OCR & Document Processing
-* AI Email Processing
-* Intelligent Data Extraction
-* AI-Powered Workflows
-* Transliteration
-* Business Process Automation
-
-</td>
-</tr>
-</table>
+* ☁️ Firebase Architecture
+* 🔥 Firebase Authentication
+* 🔔 Firebase Cloud Messaging
+* 🗄️ Firestore & Realtime Data
+* 📦 Cloud Storage
+* 🚀 Appwrite Backend
+* 🌐 RESTful API Architecture
+* 🔐 API Authentication & Authorization
+* 🔄 API Error Handling & Retry Strategies
+* 📡 Real-Time Data Communication
+* 📴 Offline Data & Synchronization
+* 🔁 Background Processing
+* 📊 Application Analytics
+* 🛡️ Secure API Communication
 
 ---
 
-## ⚡ Tech Stack
+## 🧰 Engineering, DevOps & API Tooling
 
-### 📱 Mobile
+<p align="center">
 
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" width="45" title="Android"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="45" title="Kotlin"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" title="Java"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="45" title="Swift"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="45" title="Flutter"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="45" title="Dart"/>
-</p>
-
-### 🔥 Backend, Cloud & Tools
-
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="45" title="Firebase"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/appwrite/appwrite-original.svg" width="45" title="Appwrite"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" title="Git"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" title="GitHub"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" title="JavaScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" title="Figma"/>
-</p>
-
-### 🧰 Development & API Tools
-
-<p>
-
-<img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
+<img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" />
 
 </p>
 
+### 🔧 Engineering Workflow
+
+* Git & GitHub
+* Git Branching & Release Management
+* Pull Requests & Code Reviews
+* API Development & Testing
+* Postman & API Debugging
+* Android Studio
+* Xcode
+* VS Code
+* Figma & UI Prototyping
+* Application Profiling
+* Crash & Error Debugging
+* Performance Analysis
+* Production Troubleshooting
+* Package Development & Publishing
+
 ---
 
-## 🤖 AI & Intelligent Applications
+## 📦 Flutter Packages & Open-Source Work
 
-I'm particularly interested in building **practical AI solutions that solve real business problems.**
+I also build and publish **reusable Flutter packages and plugins** designed to solve common mobile development, security, UI, networking, debugging and productivity problems.
+
+### 🛡️ Security & Privacy
+
+**`flutter_shield`**
+Comprehensive device security and vulnerability detection for Flutter applications. It provides a unified approach to detecting multiple device-security conditions across platforms.
+
+**`flutter_screenshot_blocker`**
+Native platform-based screenshot protection for Android and iOS, including the ability to prevent screenshots or show a protected/black screen.
+
+**`anti_screenshot_protection`**
+A pure-Dart/widget-level solution for protecting Flutter UI from screenshots.
+
+---
+
+### 📥 Downloads & File Management
+
+**`flutter_any_download`**
+Production-focused download manager for Android and iOS with progress notifications, callbacks, cancellation and multiple-download support.
+
+**`flutter_download_button`**
+Customizable download button with progress indication, styling options, cancellation, file management and reusable UI components.
+
+---
+
+### 📡 Networking & Developer Productivity
+
+**`flutter_chuck_inspection`**
+HTTP inspection and debugging toolkit for monitoring and analyzing network requests directly from Flutter applications with a dedicated UI.
+
+**`extensions_pro`**
+A developer productivity package providing **60+ reusable extensions** for common Flutter/Dart types and APIs, helping reduce boilerplate and speed up development.
+
+---
+
+### 🔄 Data & Architecture
+
+**`offline_first_sync`**
+Offline-first data management with automatic synchronization, conflict resolution and synchronization status indicators.
+
+---
+
+### 🎨 UI & Experience
+
+**`flutter_neumorphism_ui`**
+A Flutter UI package for creating modern Neumorphic interfaces with simplified shadow handling and reusable components.
+
+**`navigation_rail_flutter`**
+Responsive NavigationRail implementation designed for adaptive layouts and larger screens across Flutter platforms.
+
+---
+
+### 📱 Device & Platform Utilities
+
+**`sim_reader`**
+Flutter plugin for accessing SIM-related information such as carrier, country, number and network information on supported Android and iOS devices.
+
+---
+
+### 🔍 QR & Barcode Intelligence
+
+**`smart_qr_scanner`**
+Production-ready QR/barcode scanning powered by Google ML Kit with animated UI, gallery scanning, QR generation, history, favorites, CSV export, URL handling and haptic feedback.
+
+---
+
+## 🏆 My Flutter Package Collection
+
+<div align="center">
+
+| Package                            | Focus                                     |
+| :--------------------------------- | :---------------------------------------- |
+| 🛡️ **flutter_shield**             | Device Security & Vulnerability Detection |
+| 🔒 **flutter_screenshot_blocker**  | Native Screenshot Protection              |
+| 🛡️ **anti_screenshot_protection** | Widget-Level Screenshot Protection        |
+| 📥 **flutter_any_download**        | Download Manager                          |
+| ⬇️ **flutter_download_button**     | Download UI & File Management             |
+| 🔍 **flutter_chuck_inspection**    | HTTP Inspection & Debugging               |
+| ⚡ **extensions_pro**               | Developer Productivity Extensions         |
+| 🔄 **offline_first_sync**          | Offline Data Synchronization              |
+| 🎨 **flutter_neumorphism_ui**      | Neumorphic UI                             |
+| 🧭 **navigation_rail_flutter**     | Responsive Navigation                     |
+| 📶 **sim_reader**                  | SIM & Network Information                 |
+| 📷 **smart_qr_scanner**            | QR & Barcode Intelligence                 |
+
+</div>
+
+### 📚 Explore My Flutter Packages
+
+<div align="center">
+
+<a href="https://pub.dev/publishers/sanjaysharma.info/packages">
+<img src="https://img.shields.io/badge/Explore%20All%20Packages-pub.dev-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## 🧠 AI + Mobile Engineering
+
+My development approach combines **mobile engineering with modern AI capabilities** to create applications that are not only functional, but also intelligent and automation-driven.
 
 ```text
-AI Applications
-│
-├── 📄 OCR & Document Intelligence
-├── 📧 AI Email Reading & Processing
-├── 🧠 Local LLM Applications
-├── 🔍 Intelligent Search & Data Extraction
-├── 🔤 Transliteration & Language Processing
-├── 📊 AI-Powered Reconciliation
-└── ⚙️ Business Process Automation
+                    ┌─────────────────────────┐
+                    │     Intelligent Apps     │
+                    └────────────┬────────────┘
+                                 │
+              ┌──────────────────┼──────────────────┐
+              │                  │                  │
+          📱 Mobile           🤖 AI              ⚙️ Automation
+              │                  │                  │
+        Android / iOS       Local LLMs        Smart Workflows
+        Flutter             OCR / NLP         Data Processing
+        Native APIs         AI Search          Email Automation
+        Offline First       Extraction        Business Automation
+              │                  │                  │
+              └──────────────────┼──────────────────┘
+                                 │
+                       🚀 Production Systems
 ```
 
 ---
 
-## 📊 GitHub Analytics
+## 🌟 Currently Exploring
 
-<div align="center">
+<p align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=sanjaysharmajw&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img src="https://img.shields.io/badge/Generative%20AI-8B5CF6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Local%20LLMs-111827?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI%20Agents-2563EB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/On--Device%20AI-059669?style=for-the-badge" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjaysharmajw&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjaysharmajw&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sanjaysharmajw&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
-
-</div>
-
----
-
-## 💡 What I Love Building
-
-<div align="center">
-
-|   📱 Mobile Apps   | 🤖 AI Solutions | ☁️ Cloud Apps |
-| :----------------: | :-------------: | :-----------: |
-|    Android & iOS   |  Local AI / LLM |    Firebase   |
-|       Flutter      |       OCR       |    Appwrite   |
-| Clean Architecture |    Automation   |   REST APIs   |
-
-</div>
+* 🧠 **Generative AI & LLM Applications**
+* 🤖 **Local & On-Device AI**
+* 🧩 **AI Agents & Tool Calling**
+* 📱 **AI-Powered Mobile Applications**
+* 🔎 **Semantic Search & RAG**
+* 📄 **Document Intelligence & OCR**
+* 📧 **AI Email Understanding & Automation**
+* 🔤 **NLP, Transliteration & Language Models**
+* ⚡ **AI-Assisted Developer Workflows**
+* 🔄 **Intelligent Offline-First Applications**
+* 🛡️ **Mobile Application Security**
+* 📦 **Advanced Flutter Package Development**
+* 🎨 **Modern Adaptive UI Systems**
+* 🚀 **High-Performance Cross-Platform Architecture**
+* ☁️ **Cloud-Native Mobile Backends**
+* 🔬 **Emerging AI Models & Developer Tools**
 
 ---
 
-## 🌱 Currently Exploring
+## 💎 Engineering Philosophy
 
-```text
-🧠 Generative AI
-🤖 Local AI Models
-📱 Advanced Flutter Architecture
-🔍 OCR & Document Intelligence
-⚡ AI Automation
-☁️ Scalable Backend Systems
-🎨 Modern Mobile UI/UX
-```
+> **Build less boilerplate. Create more value.**
 
----
+I believe great software should be:
 
-## 📫 Let's Connect
-
-<div align="center">
-
-**Have an idea, project or interesting problem to solve?**
-
-I'm always interested in building something useful with **Mobile + AI + Automation**.
-
-<br>
-
-<a href="https://www.linkedin.com/in/sanjaydeveloper/">
-<img src="https://img.shields.io/badge/Let's%20Connect-LinkedIn-0A77B6?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://www.youtube.com/@CodeWithIDEYoutube">
-<img src="https://img.shields.io/badge/Subscribe-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
-
-</div>
+**⚡ Fast** — optimized for real-world performance
+**🧩 Modular** — easy to maintain and extend
+**🔐 Secure** — designed with privacy and security in mind
+**📱 Beautiful** — intuitive and user-focused
+**🤖 Intelligent** — enhanced through meaningful automation
+**🚀 Scalable** — ready to grow with the product
+**♻️ Reusable** — packaged into components developers can use again
 
 ---
 
-## ❤️ Support My Work
-
-If you find my projects useful, consider supporting my work ☕
+## 🚀 What I Build
 
 <div align="center">
 
-<a href="https://www.buymeacoffee.com/sanjaysharmajw">
-<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="180" alt="Buy Me A Coffee"/>
-</a>
+### 📱 Mobile Applications
 
-<br><br>
+**Android • iOS • Flutter • Cross-Platform**
 
-⭐ **Star my repositories if you find them useful!**
+### 🤖 Intelligent Applications
 
-</div>
+**AI • Local LLM • OCR • NLP • Automation**
 
----
+### 📦 Developer Tools
 
-<div align="center">
+**Flutter Packages • Plugins • Utilities**
 
-### 🚀 Build. Automate. Innovate.
+### ☁️ Connected Systems
 
-**Thanks for visiting my profile! 👋**
+**Firebase • Appwrite • REST APIs • Cloud**
+
+### 🛡️ Secure Applications
+
+**Device Security • Privacy • Screenshot Protection**
 
 </div>
