@@ -1,30 +1,238 @@
-<h1>Hi 👋, I'm Sr. Android, IOS and Flutter Developer</h1>
-<p>Senior Cross-Platform Mobile Developer: Android, iOS, and Flutter Expert</p>
-<h2>🚀 Languages and Tools I Use</h2>
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a></p>
-<h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/sanjaydeveloper/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
-<a target="_blank" href="undefinedhttps://medium.com/@sanjaysharmajw" style="display: inline-block;"><img src="https://img.shields.io/badge/medium-logo?style=for-the-badge&logo=medium&logoColor=white&color=black" alt="medium" /></a>
-<a target="_blank" href="https://www.youtube.com/https://www.youtube.com/@CodeWithIDEYoutube" style="display: inline-block;"><img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000" alt="youtube" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjaysharmajw&show_icons=true&locale=en" alt="sanjaysharmajw" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjaysharmajw&" alt="sanjaysharmajw" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjaysharmajw&show_icons=true&locale=en&layout=compact" alt="sanjaysharmajw" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanjaysharmajw" alt="sanjaysharmajw" /></a></p>
-<h2>❤️ Support Me</h2>
-<p><p>
-<a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/sanjaysharmajw">
-<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="160" alt="buymeacoffee" />
+<div align="center">
+
+# 👋 Hi, I'm **Sanjay Sharma**
+
+### 🚀 Senior Mobile & Cross-Platform Developer
+
+**Android • iOS • Flutter • AI-Powered Applications**
+
+I build **scalable, high-performance and beautiful mobile applications**
+with a strong focus on **clean architecture, modern UI/UX and AI integration.**
+
+<p>
+  <a href="https://www.linkedin.com/in/sanjaydeveloper/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A77B6?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@sanjaysharmajw">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@CodeWithIDEYoutube">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+</p>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+* 📱 **Senior Android, iOS & Flutter Developer**
+* 🧩 Experienced in building **cross-platform & native mobile applications**
+* 🤖 Passionate about **AI, Local LLMs, OCR and intelligent automation**
+* 🏗️ Focused on **Clean Architecture, scalable code & maintainable systems**
+* 🎨 Strong interest in **modern UI/UX and product-focused development**
+* 🔥 Experienced with **Firebase & backend integrations**
+* 🛠️ Love transforming complex business requirements into simple applications
+
+---
+
+## 🚀 My Core Expertise
+
+<table>
+<tr>
+<td width="50%">
+
+### 📱 Mobile Development
+
+* Android Development
+* iOS Development
+* Flutter Development
+* Cross-Platform Applications
+* Native Integrations
+* REST API Integration
+* Push Notifications
+* Offline-First Applications
+
+</td>
+
+<td width="50%">
+
+### 🤖 AI & Automation
+
+* AI Application Development
+* Local AI / Local LLM
+* OCR & Document Processing
+* AI Email Processing
+* Intelligent Data Extraction
+* AI-Powered Workflows
+* Transliteration
+* Business Process Automation
+
+</td>
+</tr>
+</table>
+
+---
+
+## ⚡ Tech Stack
+
+### 📱 Mobile
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" width="45" title="Android"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="45" title="Kotlin"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" title="Java"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="45" title="Swift"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="45" title="Flutter"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="45" title="Dart"/>
+</p>
+
+### 🔥 Backend, Cloud & Tools
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="45" title="Firebase"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/appwrite/appwrite-original.svg" width="45" title="Appwrite"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" title="Git"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" title="GitHub"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" title="JavaScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" title="Figma"/>
+</p>
+
+### 🧰 Development & API Tools
+
+<p>
+
+<img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
+
+</p>
+
+---
+
+## 🤖 AI & Intelligent Applications
+
+I'm particularly interested in building **practical AI solutions that solve real business problems.**
+
+```text
+AI Applications
+│
+├── 📄 OCR & Document Intelligence
+├── 📧 AI Email Reading & Processing
+├── 🧠 Local LLM Applications
+├── 🔍 Intelligent Search & Data Extraction
+├── 🔤 Transliteration & Language Processing
+├── 📊 AI-Powered Reconciliation
+└── ⚙️ Business Process Automation
+```
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=sanjaysharmajw&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjaysharmajw&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjaysharmajw&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sanjaysharmajw&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+
+</div>
+
+---
+
+## 💡 What I Love Building
+
+<div align="center">
+
+|   📱 Mobile Apps   | 🤖 AI Solutions | ☁️ Cloud Apps |
+| :----------------: | :-------------: | :-----------: |
+|    Android & iOS   |  Local AI / LLM |    Firebase   |
+|       Flutter      |       OCR       |    Appwrite   |
+| Clean Architecture |    Automation   |   REST APIs   |
+
+</div>
+
+---
+
+## 🌱 Currently Exploring
+
+```text
+🧠 Generative AI
+🤖 Local AI Models
+📱 Advanced Flutter Architecture
+🔍 OCR & Document Intelligence
+⚡ AI Automation
+☁️ Scalable Backend Systems
+🎨 Modern Mobile UI/UX
+```
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+**Have an idea, project or interesting problem to solve?**
+
+I'm always interested in building something useful with **Mobile + AI + Automation**.
+
+<br>
+
+<a href="https://www.linkedin.com/in/sanjaydeveloper/">
+<img src="https://img.shields.io/badge/Let's%20Connect-LinkedIn-0A77B6?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-</p>
-</p>
+
+<a href="https://www.youtube.com/@CodeWithIDEYoutube">
+<img src="https://img.shields.io/badge/Subscribe-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## ❤️ Support My Work
+
+If you find my projects useful, consider supporting my work ☕
+
+<div align="center">
+
+<a href="https://www.buymeacoffee.com/sanjaysharmajw">
+<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="180" alt="Buy Me A Coffee"/>
+</a>
+
+<br><br>
+
+⭐ **Star my repositories if you find them useful!**
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 Build. Automate. Innovate.
+
+**Thanks for visiting my profile! 👋**
+
+</div>
